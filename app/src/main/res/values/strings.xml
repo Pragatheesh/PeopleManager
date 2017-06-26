@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">People Manager</string>
+
+    <!-- General strings used in application -->
+    <string name="favourite_subject">Favourite Subject</string>
+    <string name="teaches_grade">Teaches Grade</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+
+    <!-- People create / edit fragment -->
+    <string-array name="people_type">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+
+    <string name="create_people">Create People</string>
+    <string name="select_person_type">Select the person type</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="create">Create</string>
+    <string name="edit">Edit</string>
+
+    <!-- Create / Edit People Fragment -->
+    <string name="edit_teacher">EDIT TEACHER</string>
+    <string name="edit_student">EDIT STUDENT</string>
+
+    <!-- People Activity constants -->
+    <string name="create_success">The person has been created</string>
+    <string name="update_success">The person has been updated</string>
+    <string name="delete_success">The person has been deleted</string>
+
+    <!-- General / Common Strings -->
+    <string name="editButtonDescription">The edit button. Used to edit a person</string>
+    <string name="deleteButtonDescription">The delete button. Used to delete a person</string>
+
+</resources>
