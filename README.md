@@ -12,4 +12,4 @@ Things I believe I can improve on
     2. Better project architecture - In a quick short time, the implemented was the best possible I was able to come up with
     3. Better graphics - I only used the inbuilt ones
 
-The total time I worked on this project was 3 hours and 32git  minutes in multiple sessions (Whenever I had free time)
+The total time I worked on this project was 3 hours and 32  minutes in multiple sessions (Whenever I had free time)
